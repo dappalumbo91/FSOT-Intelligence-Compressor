@@ -1,0 +1,1 @@
+Updated Zettelkasten note with attention mechanism details (see local artifacts)

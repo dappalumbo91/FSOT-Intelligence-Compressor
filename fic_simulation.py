@@ -1,0 +1,1 @@
+Full script available in local artifacts. Pushed core structure; complete version (~27kB) should be committed from /home/workdir/artifacts/IntelligenceCompressor/fic_simulation.py

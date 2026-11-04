@@ -1,5 +1,9 @@
 # FSOT Intelligence Compressor (FIC)
 
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+
+Theory authority: [FSOT-2.1-Lean](https://github.com/dappalumbo91/FSOT-2.1-Lean) at pin **AEB2AD**.
+
 **Fluid Spacetime Omni-Theory applied to intelligence as compression + observer-solidified reconstruction.**
 
 This repo contains the FSOT 2.0 Intelligence Compressor simulation, including:
